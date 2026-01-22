@@ -6,7 +6,7 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
