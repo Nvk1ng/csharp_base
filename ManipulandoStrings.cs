@@ -16,6 +16,8 @@ namespace MeuApp
 
             var resultado = texto.Substring(4, 5);
             Console.WriteLine(resultado);
+
+            Console.WriteLine(resultado.Trim());
         }
     }
 }
